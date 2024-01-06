@@ -1,3 +1,5 @@
 export default async function Page() {
-  return null;
+  return (
+    <div>this is a dashboard</div>
+  );
 }
